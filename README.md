@@ -1,2 +1,5 @@
 # hello-world
-My first repository
+
+Hello humans!
+
+My name is Clyde Ivan A. Fronda and I am learning how to use github for my assessment.
